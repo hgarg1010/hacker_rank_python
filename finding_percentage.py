@@ -1,3 +1,6 @@
+#fixed new branch changes
+
+
 if __name__ == "__main__":
     n = int(input())
     s = dict()
